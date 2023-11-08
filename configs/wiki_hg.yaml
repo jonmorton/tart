@@ -1,0 +1,7 @@
+data:
+  root: "data/wiki"
+
+model:
+  layout: hourglass
+  embed_dim: 512
+  seq_len: 512

@@ -1,0 +1,13 @@
+datasets
+einops
+iopath
+ipython
+jupyter
+numpy
+omegaconf
+PyYAML
+tqdm
+networkx
+tensorboard
+ruff
+git+https://github.com/jonmorton/nnt.git

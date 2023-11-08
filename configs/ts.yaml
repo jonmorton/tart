@@ -1,0 +1,7 @@
+data:
+  root: "data/tinystories"
+
+model:
+  layout: gpt2
+  embed_dim: 384
+  seq_len: 256

@@ -1,0 +1,8 @@
+data:
+  root: "data/wiki"
+
+model:
+  layout: gpt2
+  embed_dim: 512
+  seq_len: 512
+  num_layers: 12
